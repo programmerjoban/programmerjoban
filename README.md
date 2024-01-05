@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jobanpreet Singh</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **Azure and AWS cloud computing**
+- 🌱 I’m currently learning **React (web development), Azure, and AWS cloud computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/programmerjoban](https://github.com/programmerjoban)
 
-- 💬 Ask me about **cloud computing, python, java**
+- 💬 Ask me about **web development with React, Android mobile development, cloud computing, python, java**
 
 - 📫 How to reach me **jobanpreet.inbox@gmail.com**
 
